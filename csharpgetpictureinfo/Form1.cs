@@ -969,9 +969,11 @@ namespace csharpgetpictureinfo
             string exif = md.ver.displayvalue;
             dispstr = "EXIF版本:\t" + exif + "\r\n";
             string camera = md.cameramodel.displayvalue;
-            camera = camera.Replace("\0", string.Empty);
+            
             if (camera == null)
                 camera = "null";
+            else
+                camera = camera.Replace("\0", string.Empty);
             dispstr = dispstr + "相机型号:\t" + camera + "\r\n";
             string maker = md.equipmentmake.displayvalue;
             if (maker == null)
@@ -1072,7 +1074,7 @@ namespace csharpgetpictureinfo
 
             temp = "";
             if (md.fnumber.displayvalue == null)
-                temp = null;
+                temp = "null";
             else
                 temp = md.fnumber.displayvalue;
             temp = temp.Replace("\0", string.Empty);
