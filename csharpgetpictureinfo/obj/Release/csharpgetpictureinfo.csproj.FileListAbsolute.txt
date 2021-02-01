@@ -1,0 +1,9 @@
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\bin\Release\csharpgetpictureinfo.exe.config
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\bin\Release\csharpgetpictureinfo.exe
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\bin\Release\csharpgetpictureinfo.pdb
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\obj\Release\csharpgetpictureinfo.csprojResolveAssemblyReference.cache
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\obj\Release\csharpgetpictureinfo.Form1.resources
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\obj\Release\csharpgetpictureinfo.Properties.Resources.resources
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\obj\Release\csharpgetpictureinfo.csproj.GenerateResource.Cache
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\obj\Release\csharpgetpictureinfo.exe
+C:\Users\feng\Documents\Visual Studio 2012\Projects\csharpgetpictureinfo\csharpgetpictureinfo\obj\Release\csharpgetpictureinfo.pdb
